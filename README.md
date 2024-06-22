@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://te.legra.ph/file/14b592b31ef473e1e9293.jpg">
+  <img src="https://graph.org/file/c5726d83da44f7cfb373c.jpg">
 </p>
 
 
@@ -18,11 +18,11 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/ll_CRUSH_WORLD_ll"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/RABB_DA_RISTA"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="(https://t.me/ll_ABOUT_CHOCOLATY_ll"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="(https://SIDHUXFEELINGS"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 
